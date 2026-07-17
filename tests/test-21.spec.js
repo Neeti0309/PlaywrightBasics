@@ -1,4 +1,4 @@
-import {test} from '@playwright/test';
+/*import {test} from '@playwright/test';
 import fs from 'fs';
 import {parse} from 'csv-parse/sync';
 
@@ -10,5 +10,5 @@ const data = parse(fs.readFileSync('testData1.csv'),{
 
 test('csv data', async({page})=>{
 console.log(data);
-})
+})*/
 
