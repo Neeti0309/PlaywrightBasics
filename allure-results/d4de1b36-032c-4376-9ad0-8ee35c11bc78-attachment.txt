@@ -1,0 +1,12 @@
+{
+  id: 'ff8081819d82fab6019f690e54a76b39',
+  name: 'Surendra Macbook',
+  createdAt: 1784173974695,
+  data: {
+    year: 2023,
+    price: 2849.99,
+    'CPU model': 'M Chip',
+    'Hard disk size': '1 TB'
+  }
+}
+M Chip

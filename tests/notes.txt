@@ -1,0 +1,40 @@
+1. install it using belo command , within the project open the terminal: 
+npm install -D allure-playwright
+2. After installation check in package.json 
+3. in your playwright configuration file update repotoer to "reporter: "allure-playwright",
+4. execute ur desired test
+5. make sure allure-results folder got generated
+6.allure generate ./allure-results -o ./allure-report using this command it will generate a readble report in allure-reports folder
+7. check whether allure-reports folder created or not
+8. finally place this command in the terminal which will open the report for us; 
+allure open ./allure-report
+
+
+Steps - GIT and GIT Hub -----
+1. Create a new project
+    - Local Repository
+    - Adding all the file 
+        commit changes
+        push changes ---> master code base to remote repo
+
+2. Inform to the team about the repo and ask then to take a clone
+
+3. Team will be import to the editor, working, add, commit and push changes to a branch to the dedecated to them.
+
+4. Review a code by the lead.
+
+5. He will be merging the code.
+
+
+local Machine -->GIT ADD ---> Staging Area---> COMMIT---> Local repo--->PUSH-------> Remote github
+
+
+
+GIT COMMANDS- 
+
+git init - command is used to create a new Git Repository.
+git add - Add all the file which in project.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Neeti0309/PlaywrightBasics.git
+git push -u origin main

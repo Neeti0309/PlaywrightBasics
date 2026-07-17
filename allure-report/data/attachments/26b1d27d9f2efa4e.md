@@ -1,0 +1,16 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: HandleWindows6.spec.js >> Handling windows 2
+- Location: tests\HandleWindows6.spec.js:19:5
+
+# Error details
+
+```
+Test timeout of 5000ms exceeded.
+```
