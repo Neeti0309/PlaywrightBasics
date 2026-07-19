@@ -15,7 +15,7 @@ await pageManagerInst.getYourCartPageInstance().checkoutOperation();
 await page.waitForTimeout(1000);
 
 
-await pageManagerInst.getYourInfoPageInstance().filltheForm('surendra','jagandam','500082');
+await pageManagerInst.getYourInfoPageInstance().filltheForm('neeti','mishra','542456');
 await page.waitForTimeout(1000);
 
 
